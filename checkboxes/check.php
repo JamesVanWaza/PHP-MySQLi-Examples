@@ -39,7 +39,7 @@
 	}
 	mysqli_close($dbcon);
 	?>
-	<script src="js/vendor/jquery.js"></script>
+	<?php include ('footer.php'); ?>
 	<script src="js/vendor/modernizr.js"></script>
 	<script src="js/foundation.min.js"></script>
 	<script>
