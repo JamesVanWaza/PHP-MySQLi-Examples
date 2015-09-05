@@ -1,0 +1,31 @@
+/* ----------- iPhone 4 and 4S ----------- */
+/* Portrait and Landscape */
+/* Portrait */
+/* Landscape */
+/* ----------- iPhone 5 and 5S ----------- */
+/* Portrait and Landscape */
+/* Portrait */
+/* Landscape */
+/* ----------- iPhone 6 ----------- */
+/* Portrait and Landscape */
+/* Portrait */
+/* Landscape */
+/* ----------- iPhone 6+ ----------- */
+/* Portrait and Landscape */
+/* Portrait */
+/* Landscape */
+nav li {
+  list-style: none; }
+nav a {
+  text-decoration: none;
+  text-transform: uppercase; }
+  nav a:hover {
+    text-decoration: underline; }
+
+h1.title {
+  text-transform: uppercase; }
+  h1.title a {
+    text-transform: uppercase;
+    text-decoration: none; }
+    h1.title a:hover {
+      text-decoration: underline; }
