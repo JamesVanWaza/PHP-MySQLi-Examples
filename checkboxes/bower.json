@@ -1,11 +1,11 @@
 {
-  "name": "start-sass",
+  "name": "PHP-MySQLi-Examples",
   "version": "1.0.0",
-  "homepage": "https://github.com/jgacuca567/start-sass",
+  "homepage": "https://github.com/jgacuca567/PHP-MySQLi-Examples",
   "authors": [
     "James Van Waza <jgacuca@gmail.com>"
   ],
-  "description": "Starting a website project using HTML5, Bower, Grunt, Node",
+  "description": "Checkboxes Setup",
   "main": "index.php, scss/main.scss",
   "moduleType": [
     "es6",

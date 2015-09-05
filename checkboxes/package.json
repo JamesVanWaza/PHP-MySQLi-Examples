@@ -1,9 +1,9 @@
 {
-  "name": "start-sass",
-  "version": "0.0.2",
+  "name": "PHP-MySQLi-Examples",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jgacuca567/start-sass"
+    "url": "https://github.com/jgacuca567/PHP-MySQLi-Examples"
   },
   "devDependencies": {
     "autoprefixer-core": "^5.2.1",
