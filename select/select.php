@@ -1,6 +1,7 @@
+<?php include ('html5req.php'); ?>
 <h3>Select your favorite club</h3>
 <form action="check-select.php" method="post">
-<select name="" id="">
+<select name="" id="chosen-select">
 	<option value="">Arsenal</option>
 	<option value="">Aston Villa</option>
 	<option value="">Chelsea</option>
@@ -13,5 +14,4 @@
 	<option value="">Sevilla</option>
 </select>
 </form>
-<script></script>
-<script></script>
+<?php include ('footer.php'); ?>
