@@ -1,3 +1,17 @@
 @import 'mediaqueries';
 @import 'navigation';
 @import 'colors';
+@import 'fonts';
+@import 'type';
+
+
+
+body {
+	font-family: $bodyfont;
+}
+p, h1, h2, h3, h4, h5, h6{
+	font-family: $otherelements;
+}
+strong, select, option{
+	font-family: $thirdfont;
+}
