@@ -3,8 +3,8 @@
 	include 'html5req.php';
 	if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 		$errors = array(); // Initialize an error array.
+		
 		/*Check whether a hobby has been submitted*/
-		//$hobb = $_POST['Hobbies'];
 		if (empty($_POST['Hobbies'])) {
 			$errors[] = '<p>' . 'You forgot to enter your hobbies' . '</p>';
 		} else {
