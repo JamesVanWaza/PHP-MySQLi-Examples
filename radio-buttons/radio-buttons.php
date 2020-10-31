@@ -1,4 +1,4 @@
-<?php include ('html5req.php');?>
+<?php include 'html5req.php';?>
 <body>
 <h1>Which Hobbies do you like</h1>
 <form action="check.php" method="POST">
@@ -14,4 +14,4 @@
 		</div>
 	</div>
 </form>
-<?php include ('footer.php'); ?>
+<?php include 'footer.php';?>

@@ -1,3 +1,3 @@
-<?php include ('html5req.php'); ?>
+<?php include 'html5req.php';?>
 
-<?php include ('footer.php'); ?>
+<?php include 'footer.php';?>
