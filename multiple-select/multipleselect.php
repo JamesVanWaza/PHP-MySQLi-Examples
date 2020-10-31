@@ -1,4 +1,4 @@
-<?php include ('html5req.php'); ?>
+<?php include 'html5req.php';?>
 <h3>Select your favorite club</h3>
 <form action="multiple-checkselect.php" method="post">
 <div class="small-12 columns">
@@ -19,4 +19,4 @@
 	<button class="submit-btn">Submit</button>
 </div>
 </form>
-<?php include ('footer.php'); ?>
+<?php include 'footer.php';?>
