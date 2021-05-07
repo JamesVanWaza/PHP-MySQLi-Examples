@@ -1,10 +1,12 @@
 {
-  "name": "PHP-MySQLi-Examples",
-  "version": "1.0.0",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jgacuca567/PHP-MySQLi-Examples"
-  },
-  "devDependencies": {
-  }
+    "name": "select",
+    "version": "1.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JamesVanWaza/PHP-MySQLi-Examples"
+    },
+    "dependencies": {
+        "webpack": "^5.36.2"
+    },
+    "devDependencies": {}
 }
