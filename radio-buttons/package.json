@@ -1,13 +1,13 @@
 {
     "name": "php-mysqli-examples",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "repository": {
         "type": "git",
         "url": "https://github.com/JamesVanWaza/PHP-MySQLi-Examples"
     },
     "devDependencies": {
-        "autoprefixer-core": "^6.0.1",
+        "autoprefixer": "^10.2.6",
         "jshint-stylish": "^2.2.1",
-        "node-sass": "^5.0.0"
+        "node-sass": "^6.0.0"
     }
 }
