@@ -1,12 +1,23 @@
 {
-    "name": "select",
-    "version": "1.0.1",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/JamesVanWaza/PHP-MySQLi-Examples"
-    },
-    "dependencies": {
-        "webpack": "^5.36.2"
-    },
-    "devDependencies": {}
+  "name": "select",
+  "version": "1.0.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesVanWaza/PHP-MySQLi-Examples.git"
+  },
+  "dependencies": {
+    "webpack": "^5.44.0"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/JamesVanWaza/PHP-MySQLi-Examples/issues"
+  },
+  "homepage": "https://github.com/JamesVanWaza/PHP-MySQLi-Examples#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JamesVanWaza <info@dosbranding.com>",
+  "license": "MIT",
+  "description": ""
 }
