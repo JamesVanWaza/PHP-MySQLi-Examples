@@ -6,7 +6,7 @@
     "url": "git+https://github.com/JamesVanWaza/PHP-MySQLi-Examples.git"
   },
   "devDependencies": {
-    "autoprefixer": "^10.3.0",
+    "autoprefixer": "^10.3.7",
     "jshint-stylish": "^2.2.1",
     "node-sass": "^6.0.1"
   },
