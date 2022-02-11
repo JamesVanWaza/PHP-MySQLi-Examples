@@ -8,7 +8,7 @@
   "devDependencies": {
     "autoprefixer": "^10.3.7",
     "jshint-stylish": "^2.2.1",
-    "node-sass": "^6.0.1"
+    "node-sass": "^7.0.0"
   },
   "description": "This Project is used to show how to add radiobuttons to a database.",
   "bugs": {
