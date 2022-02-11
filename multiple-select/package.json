@@ -1,25 +1,25 @@
 {
-  "name": "multiple-select",
-  "version": "1.0.3",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JamesVanWaza/PHP-MySQLi-Examples.git"
-  },
-  "devDependencies": {
-    "autoprefixer": "^10.3.7",
-    "jshint-stylish": "^2.0.1",
-    "node-sass": "^6.0.1"
-  },
-  "bugs": {
-    "url": "https://github.com/JamesVanWaza/PHP-MySQLi-Examples/issues"
-  },
-  "homepage": "https://github.com/JamesVanWaza/PHP-MySQLi-Examples#readme",
-  "description": "Setting up Multiple Select using PHP and MySQL ",
-  "main": "index.js",
-  "dependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "JamesVanWaza <info@dosbranding.com>",
-  "license": "MIT"
+    "name": "multiple-select",
+    "version": "1.0.4",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JamesVanWaza/PHP-MySQLi-Examples.git"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.4.2",
+        "jshint-stylish": "^2.0.1",
+        "node-sass": "^7.0.1"
+    },
+    "bugs": {
+        "url": "https://github.com/JamesVanWaza/PHP-MySQLi-Examples/issues"
+    },
+    "homepage": "https://github.com/JamesVanWaza/PHP-MySQLi-Examples#readme",
+    "description": "Setting up Multiple Select using PHP and MySQL ",
+    "main": "index.js",
+    "dependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "JamesVanWaza <info@dosbranding.com>",
+    "license": "MIT"
 }
