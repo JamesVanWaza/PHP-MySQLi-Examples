@@ -1,13 +1,13 @@
 {
     "name": "checkboxes",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "repository": {
         "type": "git",
         "url": "https://github.com/JamesVanWaza/PHP-MySQLi-Examples"
     },
     "devDependencies": {
-        "autoprefixer": "^10.3.7",
+        "autoprefixer": "^10.4.14",
         "jshint-stylish": "^2.2.1",
-        "node-sass": "^6.0.1"
+        "node-sass": "^9.0.0"
     }
 }
