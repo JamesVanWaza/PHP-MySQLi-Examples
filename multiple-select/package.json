@@ -1,12 +1,12 @@
 {
   "name": "multiple-select",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JamesVanWaza/PHP-MySQLi-Examples.git"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.14",
+    "autoprefixer": "^10.4.19",
     "jshint-stylish": "^2.2.1",
     "node-sass": "^9.0.0"
   },
