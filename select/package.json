@@ -1,6 +1,6 @@
 {
     "name": "select",
-    "version": "1.0.5",
+    "version": "2024.1.6",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/JamesVanWaza/PHP-MySQLi-Examples.git"

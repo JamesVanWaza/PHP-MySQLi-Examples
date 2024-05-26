@@ -1,14 +1,13 @@
 {
   "name": "php-mysqli-examples",
-  "version": "1.0.5",
+  "version": "2024.1.6",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JamesVanWaza/PHP-MySQLi-Examples.git"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.19",
-    "jshint-stylish": "^2.2.1",
-    "node-sass": "^9.0.0"
+    "jshint-stylish": "^2.2.1"
   },
   "description": "This Project is used to show how to add radio buttons to a database.",
   "bugs": {
