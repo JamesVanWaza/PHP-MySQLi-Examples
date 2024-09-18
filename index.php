@@ -6,9 +6,9 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="checkboxes/">index.php</a>
-    <a href="multiple-select/">index.php</a>
-    <a href="radio-buttons/">index.php</a>
-    <a href="select/">index.php</a>
+    <a href="checkboxes/">Checkboxes</a>
+    <a href="multiple-select/">Multiple Select</a>
+    <a href="radio-buttons/">Radio Buttons</a>
+    <a href="select/">Select</a>
 </body>
 </html>
