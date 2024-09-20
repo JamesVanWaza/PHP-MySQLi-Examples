@@ -1,14 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+<?php include_once 'html5req.php'; ?>
 <body>
     <a href="checkboxes/">Checkboxes</a>
     <a href="multiple-select/">Multiple Select</a>
     <a href="radio-buttons/">Radio Buttons</a>
     <a href="select/">Select</a>
 </body>
-</html>
+<?php include_once 'footer.php'; ?>
