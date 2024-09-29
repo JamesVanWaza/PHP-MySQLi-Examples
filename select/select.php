@@ -1,4 +1,4 @@
-<?php include 'html5req.php';?>
+<?php include '../../html5req.php';?>
 <h3>Select your favorite club</h3>
 <form action="check-select.php" method="post">
 <div class="small-12 columns">
