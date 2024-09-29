@@ -1,3 +1,3 @@
-<?php include ('html5req.php'); ?>
-
-<?php include ('footer.php'); ?>
+<?php include '../../../html5req.php'; ?>
+<a href="checkboxes.php">Checkboxes</a>
+<?php include '../../../footer.php'; ?>

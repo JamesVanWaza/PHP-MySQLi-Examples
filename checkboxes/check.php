@@ -40,9 +40,5 @@ if (empty($errors)) {
 }
 mysqli_close($dbcon);
 ?>
-	<?php include 'footer.php';?>
-	<script src="js/vendor/modernizr.js"></script>
-	<script src="js/foundation.min.js"></script>
-	<script>
-	    $(document).foundation();
-	</script>
+	
+<?php include 'footer.php';?>
