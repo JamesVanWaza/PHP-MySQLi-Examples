@@ -5,4 +5,4 @@
 <a href="../radio-buttons/index.php" target="_blank">Radio Buttons</a>
 <a href="../select/index.php" target="_blank">Select</a>
 
-<?php include '../../../footer.php'; ?>
+<?php include '../footer.php'; ?>
