@@ -16,6 +16,8 @@
 
     <ul>
             <li>Updated font family to use Google Fonts</li>
+            <li>Updated the path in `html5req.php` so that Bootstrap styles are loaded correctly</li>
+            <li>Added the correct include in the radio-buttons folder</li>
     </ul>
     </section>
 
